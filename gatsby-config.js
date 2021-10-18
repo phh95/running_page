@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: `/`, // Change to `/running_page` when running on github pages
     siteMetadata: {
         siteTitle: '彭宏豪的跑步记录',     
-        siteUrl: 'https://running-page-three.vercel.app/',
+        siteUrl: 'https://running-page-jet.vercel.app/',         
         logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
         description: 'Personal site and blog',
         navLinks: [{
