@@ -64,7 +64,7 @@
     "ci": "yarn run check && yarn run build && yarn run test"
   },
   "engines": {
-    "node": "14.15.0"
+    "node": ">=14.15.0"  
   },
   "repository": {
     "type": "git",
