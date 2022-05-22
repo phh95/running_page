@@ -71,4 +71,4 @@ jobs:
           # Prevent Jekyll from building the site
           jekyll: false
         env:
-          GITHUB_TOKEN: ${{ secrets.gh-pages_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHPages_TOKEN }}
