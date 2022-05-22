@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: `/`, // Change to `/running_page` when running on github pages
+    pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
     siteMetadata: {
         siteTitle: '彭宏豪的跑步记录',     
         siteUrl: 'https://running-page-jet.vercel.app/',         
