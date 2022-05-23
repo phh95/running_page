@@ -34,7 +34,6 @@
     "gatsby-transformer-remark": "^5.6.0",
     "gatsby-transformer-sharp": "^4.6.0",
     "gatsby-transformer-yaml": "^4.6.0",
-    "node-sass": "^7.0.1",
     "gcoord": "^0.3.2",
     "pngquant-bin": "^6.0.0",
     "prettier": "^2.2.1",
@@ -63,8 +62,9 @@
     "check": "npx prettier --write *.{js,jsx,scss,json,md,yaml}",
     "ci": "yarn run check && yarn run build && yarn run test"
   },
+  "engineStrict": true,
   "engines": {
-    "node": ">=14.15.0"  
+    "node": ">=14.15.0"
   },
   "repository": {
     "type": "git",
