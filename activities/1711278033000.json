@@ -1,0 +1,127 @@
+{
+    "id": "4541a0ba-ccef-411c-812a-6a681695884a",
+    "type": "run",
+    "app_id": "com.nike.sport.running.ios",
+    "start_epoch_ms": 1711276740000,
+    "end_epoch_ms": 1711278033000,
+    "last_modified": 1711284890006,
+    "active_duration_ms": 1293000,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [
+        {
+            "metric": "speed",
+            "summary": "mean",
+            "source": "com.nike.running.ios.manualentry",
+            "app_id": "com.nike.sport.running.ios",
+            "value": 8.491879350348027
+        },
+        {
+            "metric": "distance",
+            "summary": "total",
+            "source": "com.nike.running.ios.manualentry",
+            "app_id": "com.nike.sport.running.ios",
+            "value": 3.05
+        },
+        {
+            "metric": "nikefuel",
+            "summary": "total",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "app_id": "com.nike.sport.running.ios",
+            "value": 2.2597096287703016
+        },
+        {
+            "metric": "pace",
+            "summary": "mean",
+            "source": "com.nike.running.ios.manualentry",
+            "app_id": "com.nike.sport.running.ios",
+            "value": 7.065573770491804
+        },
+        {
+            "metric": "nikefuel",
+            "summary": "mean",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "app_id": "com.nike.sport.running.ios",
+            "value": 0.10485891548818105
+        }
+    ],
+    "sources": [
+        "com.nike.pacecalculator.v1",
+        "com.nike.running.ios.manualentry",
+        "com.nike.nikefuelengine.1.0-A5.0"
+    ],
+    "tags": {
+        "com_nike_name": "\u661f\u671f\u65e5 \u665a\u95f4\u8dd1",
+        "com_nike_running_originalactivityid": "03A5A6B8-B60F-41EF-8038-6F437683A9C8",
+        "com_nike_running_runtype": "manual",
+        "evaluation_run_disqualified": "true",
+        "evaluation_run_version": "2.0.0",
+        "location": "outdoors"
+    },
+    "change_tokens": [
+        "e0e139c620923b508c5e85edcb1556ff4b60ccc171f87a5a39f0c4c0b3615c99:1711284890006",
+        "33cedfc6a77c83e73bae254e04ac3addcb32ebca40936d79ddadeccf7ef143c9:1711284886087",
+        "c0c9b88833aefe01212a1581ca87453f4a45b045938c890c140aaa9047834e6d:1711284885751"
+    ],
+    "metric_types": [
+        "distance",
+        "pace",
+        "speed",
+        "nikefuel"
+    ],
+    "metrics": [
+        {
+            "type": "distance",
+            "unit": "KM",
+            "source": "com.nike.running.ios.manualentry",
+            "appId": "com.nike.sport.running.ios",
+            "values": [
+                {
+                    "start_epoch_ms": 1711276740000,
+                    "end_epoch_ms": 1711278033000,
+                    "value": 3.05
+                }
+            ]
+        },
+        {
+            "type": "speed",
+            "unit": "KMH",
+            "source": "com.nike.running.ios.manualentry",
+            "appId": "com.nike.sport.running.ios",
+            "values": [
+                {
+                    "start_epoch_ms": 1711276740000,
+                    "end_epoch_ms": 1711276740000,
+                    "value": 8.491879350348027
+                }
+            ]
+        },
+        {
+            "type": "pace",
+            "unit": "MKM",
+            "source": "com.nike.pacecalculator.v1",
+            "appId": "com.nike.sport.running.ios",
+            "values": [
+                {
+                    "start_epoch_ms": 1711276740000,
+                    "end_epoch_ms": 1711276740000,
+                    "value": 7.065573770491804
+                }
+            ]
+        },
+        {
+            "type": "nikefuel",
+            "unit": "FUEL",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "appId": "com.nike.sport.running.ios",
+            "values": [
+                {
+                    "start_epoch_ms": 1711276740000,
+                    "end_epoch_ms": 1711276750000,
+                    "value": 2.2597096287703016
+                }
+            ]
+        }
+    ],
+    "moments": []
+}
