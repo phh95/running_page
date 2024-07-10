@@ -95,6 +95,9 @@ jobs:
       - name: Build
         run: PATH_PREFIX=/${{ github.event.repository.name }} pnpm build
 
+      - name: Cleanup previous artifacts
+        run: rm -rf ./dist
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
