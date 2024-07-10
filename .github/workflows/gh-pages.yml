@@ -12,6 +12,9 @@ on:
         required: true
         type: string
         default: track_data
+  push:
+    branches:
+      - gh-pages
   workflow_call:
     inputs:
       save_data_in_github_cache:
