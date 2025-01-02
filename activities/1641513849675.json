@@ -90,15 +90,15 @@
         "com.nike.descentcalculator.v1"
     ],
     "tags": {
-        "com_nike_name": "\u661f\u671f\u4e94  \u4e0a\u5348\u8dd1",
-        "com_nike_running_goaltype": "freeRun",
-        "com_nike_running_originalactivityid": "C6F88D79-F6DF-48E1-A149-B9AEF14DF4B3",
-        "com_nike_running_recordingappversion": "7.10.0",
-        "com_nike_running_recordingsource": "watch",
-        "com_nike_running_syncappversion": "7.10.0",
-        "com_nike_running_syncsource": "watch",
-        "com_nike_temperature": "15.53",
-        "com_nike_weather": "clear-day",
+        "com.nike.name": "\u661f\u671f\u4e94  \u4e0a\u5348\u8dd1",
+        "com.nike.running.goaltype": "freeRun",
+        "com.nike.running.originalactivityid": "C6F88D79-F6DF-48E1-A149-B9AEF14DF4B3",
+        "com.nike.running.recordingappversion": "7.10.0",
+        "com.nike.running.recordingsource": "watch",
+        "com.nike.running.syncappversion": "7.10.0",
+        "com.nike.running.syncsource": "watch",
+        "com.nike.temperature": "15.53",
+        "com.nike.weather": "clear-day",
         "location": "outdoors"
     },
     "change_tokens": [

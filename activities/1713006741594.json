@@ -82,16 +82,16 @@
         "com.nike.nikefuelengine.1.0-A5.0"
     ],
     "tags": {
-        "com_nike_name": "\u661f\u671f\u516d \u665a\u95f4\u8dd1",
-        "com_nike_running_goaltype": "freeRun",
-        "com_nike_running_originalactivityid": "7FC06958-5E16-4FD3-8C20-4CDC1E5A614B",
-        "com_nike_running_recordingappversion": "7.30.0",
-        "com_nike_running_recordingsource": "phone",
-        "com_nike_running_syncappversion": "7.30.0",
-        "com_nike_running_syncsource": "phone",
-        "com_nike_temperature": "26.45",
-        "com_nike_weather": "mostly-cloudy-night",
-        "com_nike_weathersource": "appleWeatherKit",
+        "com.nike.name": "\u661f\u671f\u516d \u665a\u95f4\u8dd1",
+        "com.nike.running.goaltype": "freeRun",
+        "com.nike.running.originalactivityid": "7FC06958-5E16-4FD3-8C20-4CDC1E5A614B",
+        "com.nike.running.recordingappversion": "7.30.0",
+        "com.nike.running.recordingsource": "phone",
+        "com.nike.running.syncappversion": "7.30.0",
+        "com.nike.running.syncsource": "phone",
+        "com.nike.temperature": "26.45",
+        "com.nike.weather": "mostly-cloudy-night",
+        "com.nike.weathersource": "appleWeatherKit",
         "location": "outdoors"
     },
     "change_tokens": [

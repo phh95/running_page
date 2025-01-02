@@ -90,15 +90,15 @@
         "com.nike.running.ios.healthkit"
     ],
     "tags": {
-        "com_nike_name": "\u661f\u671f\u65e5 \u665a\u95f4\u8dd1",
-        "com_nike_running_goaltype": "freeRun",
-        "com_nike_running_originalactivityid": "32E5F5F3-C145-4B7C-BA17-D937190AC0E3",
-        "com_nike_running_recordingappversion": "7.16.0",
-        "com_nike_running_recordingsource": "phone",
-        "com_nike_running_syncappversion": "7.16.0",
-        "com_nike_running_syncsource": "phone",
-        "com_nike_temperature": "30.31",
-        "com_nike_weather": "partly-cloudy-day",
+        "com.nike.name": "\u661f\u671f\u65e5 \u665a\u95f4\u8dd1",
+        "com.nike.running.goaltype": "freeRun",
+        "com.nike.running.originalactivityid": "32E5F5F3-C145-4B7C-BA17-D937190AC0E3",
+        "com.nike.running.recordingappversion": "7.16.0",
+        "com.nike.running.recordingsource": "phone",
+        "com.nike.running.syncappversion": "7.16.0",
+        "com.nike.running.syncsource": "phone",
+        "com.nike.temperature": "30.31",
+        "com.nike.weather": "partly-cloudy-day",
         "location": "outdoors"
     },
     "change_tokens": [

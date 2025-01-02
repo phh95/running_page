@@ -76,12 +76,12 @@
         "com.nike.descentcalculator.v1"
     ],
     "tags": {
-        "com_nike_running_goaltype": "freeRun",
-        "com_nike_running_originalactivityid": "C93890F4-1111-4B82-A2B6-96F38845E3F7",
-        "com_nike_running_recordingappversion": "7.24.0",
-        "com_nike_running_recordingsource": "watch",
-        "com_nike_running_syncappversion": "7.24.0",
-        "com_nike_running_syncsource": "watch",
+        "com.nike.running.goaltype": "freeRun",
+        "com.nike.running.originalactivityid": "C93890F4-1111-4B82-A2B6-96F38845E3F7",
+        "com.nike.running.recordingappversion": "7.24.0",
+        "com.nike.running.recordingsource": "watch",
+        "com.nike.running.syncappversion": "7.24.0",
+        "com.nike.running.syncsource": "watch",
         "location": "outdoors"
     },
     "change_tokens": [

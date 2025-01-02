@@ -4,7 +4,7 @@
     "app_id": "com.nike.sport.running.ios",
     "start_epoch_ms": 1720790087469,
     "end_epoch_ms": 1720791483269,
-    "last_modified": 1720791484655,
+    "last_modified": 1720954212644,
     "active_duration_ms": 1392127,
     "session": false,
     "delete_indicator": false,
@@ -82,15 +82,20 @@
         "com.nike.nikefuelengine.1.0-A5.0"
     ],
     "tags": {
-        "com_nike_running_goaltype": "freeRun",
-        "com_nike_running_originalactivityid": "12FA1519-F71C-494C-81A4-019BAD2F3AA3",
-        "com_nike_running_recordingappversion": "7.30.0",
-        "com_nike_running_recordingsource": "phone",
-        "com_nike_running_syncappversion": "7.30.0",
-        "com_nike_running_syncsource": "phone",
+        "com.nike.name": "\u661f\u671f\u4e94 \u591c\u8dd1",
+        "com.nike.running.goaltype": "freeRun",
+        "com.nike.running.originalactivityid": "12FA1519-F71C-494C-81A4-019BAD2F3AA3",
+        "com.nike.running.recordingappversion": "7.30.0",
+        "com.nike.running.recordingsource": "phone",
+        "com.nike.running.syncappversion": "7.30.0",
+        "com.nike.running.syncsource": "phone",
+        "com.nike.temperature": "29.27",
+        "com.nike.weather": "cloudy",
+        "com.nike.weathersource": "appleWeatherKit",
         "location": "outdoors"
     },
     "change_tokens": [
+        "0af71a2332253062804dff744a0d1cec53b7068182e886e7c0cddcbd138d00e1:1720954212644",
         "ac7b924bfbcd80e465a84029d41fa7f624f2446dd1ca7605250f791f1eca02bc:1720791484655"
     ],
     "metric_types": [

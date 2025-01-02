@@ -51,11 +51,11 @@
         "com.nike.nikefuelengine.1.0-A5.0"
     ],
     "tags": {
-        "com_nike_name": "\u661f\u671f\u516d \u665a\u95f4\u8dd1",
-        "com_nike_running_originalactivityid": "852901BD-B9D3-45D8-8DEA-1F251D070D66",
-        "com_nike_running_runtype": "manual",
-        "evaluation_run_disqualified": "true",
-        "evaluation_run_version": "2.0.0",
+        "com.nike.name": "\u661f\u671f\u516d \u665a\u95f4\u8dd1",
+        "com.nike.running.originalactivityid": "852901BD-B9D3-45D8-8DEA-1F251D070D66",
+        "com.nike.running.runtype": "manual",
+        "evaluation.run.disqualified": "true",
+        "evaluation.run.version": "2.0.0",
         "location": "outdoors"
     },
     "change_tokens": [
